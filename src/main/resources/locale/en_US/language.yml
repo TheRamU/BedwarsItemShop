@@ -1,0 +1,8 @@
+#Config version (Don't edit!)
+version: 1
+
+commands:
+  message:
+    prefix: "&b&lBWIS &f>> "
+    no_permission: "&cNo permission to use this command!"
+    reloaded: "&aReload completed!"

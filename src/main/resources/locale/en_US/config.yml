@@ -1,0 +1,27 @@
+#Config version (Don't edit!)
+version: 2
+
+#Language locale
+locale: en_US
+
+#Shop mode 0-3
+#0 is the default shop
+mode: 1
+
+#Message
+message:
+
+  #Buy items message
+  buy: "&aYou purchased &6{item}"
+
+#Item name & lore
+item:
+
+  #Frame glass plate
+  frame:
+  - "&8\u2b06 &7Categories"
+  - "&8\u2b07 &7Items"
+
+  #Back button
+  back:
+  - "&fBack"

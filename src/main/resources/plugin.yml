@@ -1,0 +1,15 @@
+name: BedwarsItemShop
+version: '${project.version}'
+main: me.ram.bedwarsitemshop.Main
+author: TheRamU
+depends: [ BedwarsRel ]
+softdepends: [ BedwarsXP ]
+
+commands:
+  bedwarsitemshop:
+    aliases: [ bwis ]
+
+permissions:
+  bedwarsitemshop.reload:
+    default: op
+
